@@ -3,14 +3,14 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "de.itmeindl.wawaapp1"
+        id        = "de.itmeindl.wachapplerchenau"
         version   = "1.2.1"
         versionCode="7">
 
-    <name>WachApp Unterfoehring</name>
+    <name>WachApp Lerchenau</name>
 
     <description>
-        Eine Test-App für die Wachplan App der Wasserwacht Unterfoehring von Tobias Meindl.
+        Die Wachbuch App der Wasserwacht Lerchenau im München.
         Nur für interne Mitglieder. Passwort benötigt. Anfragen bei info@wachplan.info.
     </description>
 
